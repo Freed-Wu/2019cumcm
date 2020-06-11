@@ -1,0 +1,7 @@
+变量,单位,定义
+$ p $,\SI{}{\mega\pascal},压力
+$ \rho $,\SI{}{kg/m^3},密度
+$ E $,\SI{}{\mega\pascal},弹性模量
+$ Q $,\SI{}{\milli\meter^3/\second},流量
+$ C $,1,流量系数
+$ A $,\SI{}{\milli\meter^2},面积
